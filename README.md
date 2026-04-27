@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there, I'm Ella😛✨:
 As a Software Development student with a passion for web design, I have transitioned from classroom projects to freelance work, creating responsive websites that help real businesses connect with their audiences.<br>Whether I am customizing Squarespace templates or coding from scratch, my focus is on transforming ideas into digital experiences that make a difference.<br>I am not limited to just web design; I am eager to learn new things related to designing, developing, and programming.<br>I love everything that computer science has to offer.
 
 
